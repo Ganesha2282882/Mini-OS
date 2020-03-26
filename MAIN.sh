@@ -1,6 +1,6 @@
 echo Booting up [40m out of 40m]
 echo Packages [OK]
-echo Starting Python Script [22000k out of 22000k]
+echo Starting Python Script [220m out of 220m]
 echo Creating Backup of debug.py [DONE]
 cp debug.py backups
 echo Creating Backup of norm.py [DONE]
